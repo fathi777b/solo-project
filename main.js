@@ -62,7 +62,12 @@
     <li>Promotion:${hotel[3].protion}</li>`)
    })
 
-  
+   $('.sear').on('click',function(){
+    var value= $('.inp').val()
+    if(value !== ''){
+    console.log(value)
+    }
+});
   
 
 
