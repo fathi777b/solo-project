@@ -1,0 +1,176 @@
+
+#logo{
+    height: 100px;
+    width: 400px;
+    margin-top: -161px;
+    padding: 40px;
+
+}
+h1{
+    text-align: center;
+    background-color: rgba(158, 217, 225, 0.741);
+    padding: 30px;
+    color:black;
+    font-family: cursive;
+}
+.navbar ul{
+    list-style-type: none;
+    background-color:hwb(0 27% 72%);
+    margin-top: -40px;
+    padding: 0px;
+    display: flex;
+
+
+}
+.navbar a{
+    color: white;
+    padding: 30px;
+    display: block;
+    text-decoration: none;
+   
+
+}
+.navbar a:hover{
+    background-color: #201f1f;
+
+}
+.ii{
+margin-left: 150px;}
+.ull{
+    position: relative;
+}
+.inp{
+height: 33px;
+margin-left: 67%;
+margin-top: 35px;
+position: absolute;
+
+} 
+.sear{
+    position: absolute;
+    margin-left: 87%;
+    margin-top: 35px;
+
+}
+  
+
+
+.div1{
+    display: flex;
+
+}
+
+#M1{
+    width: 400px;
+    height: 250px;
+}
+#M2{
+    width: 400px;
+    height:250px;
+    
+}
+
+.div2{
+    display: flex;
+}
+#M3{
+    width:  400px;
+    height:  250px;
+
+}
+#M4{
+    width: 400px;
+    height: 250px;
+
+}
+body{
+    background: linear-gradient(315deg,#810558 0%,#dadde2 74%) ;
+    padding: 8px;
+}
+.data2{
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-left: 300px;
+    padding: 8px;
+   
+   
+}
+.data1{
+    background-color: aliceblue;
+    margin-left: 30px;
+    border-radius: 10px;
+    padding: 8px;
+}
+.data3{
+    background-color: aliceblue;
+    margin-left: 30px;
+    margin-top: 40px;
+    border-radius: 15px;
+    padding: 8px;
+}
+.data4{
+    background-color: aliceblue;
+    margin-left: 300px;
+    margin-top: 40px;
+    padding: 8px;
+}
+
+button{
+    background-color: rgb(88, 168, 88);
+    width: 150px;
+    height: 30px;
+    border-radius: 6px;
+    margin-right: 40PX;
+    
+    
+}
+.dd{
+    display: flex;
+    justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+}
+.contact{
+    width: 500px;
+    background-color: rgb(111, 109, 109);
+    border-radius: 40px;
+    padding: 150px 250px;
+    margin-top: -150px;
+}
+label{
+    display: block;
+}
+input{
+    border-radius: 15px;
+    padding: 10px;
+    width: 300px;
+    height: 20px;
+
+}
+h3{
+    
+    font-size: x-large;
+}
+#lon{
+    width: 900px;
+    height: 400px;
+}
+#fr{
+    width: 900px;
+    height: 400px;
+
+margin-left: 200px;
+}
+#tr{
+    width: 900px;
+    height: 400px;
+
+}
+h4{
+    text-align: center;
+    font-size: xx-large;
+    background-color: aqua;
+    height: 50px;
+    margin-top: -10px;
+    
+}
